@@ -1,0 +1,13 @@
+{
+    "@@locale": "ar",
+    "success": "نجاح",
+    "@success": {},
+    "error": "خطأ",
+    "@error": {},
+    "info": "معلومات",
+    "@info": {},
+    "warning": "تحذير",
+    "@warning": {},
+    "app_name":"Demo App",
+    "@app_name": {}
+}

@@ -1,0 +1,13 @@
+{
+    "@@locale": "en",
+    "success": "Success",
+    "@success": {},
+    "error": "Error",
+    "@error": {},
+    "info": "Info",
+    "@info": {},
+    "warning": "Warning",
+    "@warning": {},
+    "app_name":"Demo App",
+    "@app_name": {}
+}
